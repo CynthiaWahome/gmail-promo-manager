@@ -35,8 +35,8 @@ GMAIL_APP_PASSWORD=your_app_password
 ### Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/CynthiaWahome/gmail-promo-manager.git
+cd gmail-promo-manager
 ```
 ### Install Dependencies
 1. Ensure you have Python 3.x installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
